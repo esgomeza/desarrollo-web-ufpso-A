@@ -12,5 +12,5 @@ Usar estilos CSS para mejorar la presentación.
 Agregar un contador de tareas pendientes.
 Tener en cuenta las buenas prácticas de HTML, CSS y JS vistas.
 # Tercera clase practica 
-## Día 3 de práctica
+# Día 3 de práctica
 En este tercer día de práctica continué trabajando en el desarrollo del proyecto, mejorando la estructura del código y agregando nuevas funcionalidades. También se realizaron ajustes para optimizar el funcionamiento y la organización del proyecto.
