@@ -45,7 +45,7 @@ mi-proyecto-web/
 * Bootstrap 5
 * JavaScript
 
-## Cambios del [fecha actual - ej: 18/04/2026]
+## Cambios del [fecha actual -18/04/2026]
 
 ### Implementación de validación de login
 
